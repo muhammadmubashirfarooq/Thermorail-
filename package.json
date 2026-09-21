@@ -1,0 +1,37 @@
+{
+  "name": "thermogrid",
+  "version": "1.0.0",
+  "description": "> **Real-Time Railway Heat-Risk Intelligence & Decision-Support Platform**   > *Built for the 12-Day Hackathon MVP*",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadrohaankhan007/ThermoRail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/muhammadrohaankhan007/ThermoRail/issues"
+  },
+  "homepage": "https://github.com/muhammadrohaankhan007/ThermoRail#readme",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.34.0",
+    "maplibre-gl": "^6.4.1",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "vite": "^8.2.1"
+  }
+}
